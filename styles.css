@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+#container
+{
+	padding:20px;
+	background-color:#f5f5f5;
+}
+
+#firstTestimonial
+{
+	padding: 15px;
+	border: 1px solid grey;
+	margin: 10px;
+}
+
+#secondTestimonial
+{
+	padding: 15px;
+	border: 1px solid grey;
+	margin: 10px;
+}
+
+.testimonialauthor
+{
+	text-align: right;
+	font-style: italic;
+}
